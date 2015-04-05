@@ -1,5 +1,5 @@
 name:                monad-parallel-progressbar
-version:             0.1.0.0
+version:             0.1.0.1
 stability:           experimental
 
 synopsis:            Parallel execution of monadic computations with a progress bar
